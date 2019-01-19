@@ -9,6 +9,8 @@
 <span style="color: #990000;"><b>IFSC Code - {{IFSC Code}}</b></span></h3>
 </div>
 <br/>
+&nbsp;MICR Code - {{MICR Code}} <br/>
+<br/>
 &nbsp;Branch Code - {{Branch Code}} <br/>
 <br/>
 &nbsp;Bank Address - {{Bank Address}} <br/>
