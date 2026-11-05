@@ -34,7 +34,7 @@ py==1.10.0
 pycodestyle==2.6.0
 pycparser==2.20
 pyparsing==2.4.7
-pytest==6.0.1
+pytest==9.0.3
 python-dateutil==2.8.1
 python-editor==1.0.4
 requests==2.24.0
